@@ -53,3 +53,4 @@ Contents
 .. toctree::
 
    Home <self>
+   README/index
