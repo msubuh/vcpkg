@@ -1,10 +1,10 @@
-vcpkg: Cross-Platform Package Manager for C and C++
+VPCKG: Cross-Platform Package Manager for C and C++
 ===================================================
 
 Overview
 --------
 
-*vcpkg* is a cross-platform open source package manager for C and C++ developers. It offers seamless access to thousands of high-quality open source libraries, facilitating their integration into your projects. vcpkg can be utilized on Windows, macOS, and Linux.
+*vcpkg* is a cross-platform open source package manager for C and C++ developers. It offers seamless access to thousands of high-quality open source libraries, facilitating their integration into your projects. VPCKG can be utilized on Windows, macOS, and Linux cited from `KNOT35 Official Site <https://www.knot35.com/>`_.
 
 Installing vcpkg
 ----------------
