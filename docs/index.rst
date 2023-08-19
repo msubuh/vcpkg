@@ -54,3 +54,6 @@ Contents
 
    Home <self>
    README/index
+   examples/patching/index
+   examples/packaging-zipfiles/index
+   examples/installing-and-using-packages/index
